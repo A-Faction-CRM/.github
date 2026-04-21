@@ -51,8 +51,8 @@ One dashboard. One system. Full control.
 
 ```
   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-  │   Landing   │────▶│     CRM     │────▶│     API     │────▶│    Bot      │
-  │  Onboarding │     │  Dashboard  │     │   Backend   │     │  Discord    │
+  │   Landing   │───▶│     CRM     │────▶│     API     │───▶│     Bot     │
+  │  Onboarding │     │  Dashboard  │     │   Backend   │     │   Discord   │
   └─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
 ```
 
