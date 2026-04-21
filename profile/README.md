@@ -69,53 +69,6 @@ Managing Discord communities at scale becomes chaotic:
 
 ---
 
-## Core Capabilities
-
-### 👥 Member Management
-Centralized control over users, roles, and statuses.
-
----
-
-### ⚖️ Discipline System
-Warnings, limits, escalation logic, and full history.
-
----
-
-### 💰 Economy
-Internal currency, requests, and reward system.
-
----
-
-### 📊 Logs & Transparency
-Full visibility of actions across the system.
-
----
-
-### 🧠 Interviews
-Structured evaluation with stored results.
-
----
-
-### 🚫 Blacklist
-Prevent unwanted users from interacting with your system.
-
----
-
-### 📅 Scheduler
-Manage time slots and avoid conflicts.
-
----
-
-### 🤖 Discord Integration
-Operate directly from Discord:
-
-- commands  
-- notifications  
-- role sync  
-- real-time updates  
-
----
-
 ## How it works
 Landing → CRM → API → Discord
 
