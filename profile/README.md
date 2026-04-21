@@ -123,6 +123,10 @@ Core implementation details and internal logic are private.
 - https://crm.a-faction.xyz  
 - https://api.a-faction.xyz  
 
+### Contacts
+- Owner: [jalisco](https://discord.com/users/325196577624817674)
+- Discord Server: [discord.gg/2cMBp8gjYn](https://discord.gg/2cMBp8gjYn)
+
 ---
 
 <div align="center">
