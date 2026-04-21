@@ -1,136 +1,159 @@
 <div align="center">
 
-<img src="https://a-faction.xyz/logo.svg" width="72" alt="A-Faction Logo" />
+<br />
 
-# A-Faction
+```
+  ╔═══════════════════════════════╗
+  ║   A·FACTION                   ║
+  ║   Community OS for Discord    ║
+  ╚═══════════════════════════════╝
+```
 
-### CRM platform for managing and scaling Discord communities
+**Turn your Discord server into a structured, automated system.**
 
-<p>
-  <a href="https://a-faction.xyz"><b>Website</b></a> ·
-  <a href="https://crm.a-faction.xyz">CRM</a> ·
-  <a href="https://api.a-faction.xyz">API</a>
-</p>
+[**Launch CRM →**](https://crm.a-faction.xyz) · [Website](https://a-faction.xyz) · [API](https://api.a-faction.xyz) · [Discord](https://discord.gg/2cMBp8gjYn)
 
-<br>
+<br />
 
-<!-- PRODUCT -->
-[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://a-faction.xyz)
-[![Website](https://img.shields.io/badge/website-a--faction.xyz-black?style=flat-square)](https://a-faction.xyz)
-[![CRM](https://img.shields.io/badge/CRM-online-blue?style=flat-square)](https://crm.a-faction.xyz)
-[![API](https://img.shields.io/badge/API-live-blue?style=flat-square)](https://api.a-faction.xyz)
-<!-- FRONTEND -->
-[![Vue](https://img.shields.io/badge/vue-3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org)
-[![Nuxt](https://img.shields.io/badge/nuxt-SSR-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
-[![Vite](https://img.shields.io/badge/vite-build-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Sass](https://img.shields.io/badge/sass-scss-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com)
-[![TypeScript](https://img.shields.io/badge/typescript-used-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
-<!-- BACKEND -->
-[![Node.js](https://img.shields.io/badge/node.js-20.x-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/express-backend-black?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
-<!-- DISCORD -->
-[![Discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org)
-[![Bot](https://img.shields.io/badge/bot-online-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-<!-- INFRA -->
-[![Deploy](https://img.shields.io/badge/deploy-railway-black?style=flat-square)](https://railway.app)
-[![Cloudflare](https://img.shields.io/badge/cloudflare-DNS-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://cloudflare.com)
-<!-- SYSTEM -->
-[![Auth](https://img.shields.io/badge/auth-JWT-000000?style=flat-square)]()
-[![Security](https://img.shields.io/badge/security-CSRF%20%7C%20RateLimit-orange?style=flat-square)]()
-[![RBAC](https://img.shields.io/badge/access-RBAC-important?style=flat-square)]()
-<!-- EXTRA -->
-[![i18n](https://img.shields.io/badge/i18n-ru%20%7C%20en%20%7C%20ua-blue?style=flat-square)]()
-[![SEO](https://img.shields.io/badge/SEO-optimized-brightgreen?style=flat-square)]()
-[![SSR](https://img.shields.io/badge/rendering-SSR-00DC82?style=flat-square)]()
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![Vue](https://img.shields.io/badge/vue-3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-SSR-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-20.x-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white)
+![RBAC](https://img.shields.io/badge/access-RBAC-important?style=flat-square)
+![Auth](https://img.shields.io/badge/auth-JWT-000000?style=flat-square)
+![i18n](https://img.shields.io/badge/i18n-ru%20%7C%20en%20%7C%20ua-blue?style=flat-square)
 
 </div>
 
 ---
 
-## About
+## The Problem
 
-**A-Faction** is a platform designed to manage Discord communities in a structured, scalable, and automated way.
+Discord communities grow fast. Management doesn't.
 
-It combines a web interface, backend services, and Discord integration into a single system that replaces scattered tools with a unified workflow.
+You end up with scattered bots, manual role assignments, zero visibility into what's happening — and no single place to control any of it.
 
----
-
-## What it solves
-
-Managing Discord communities at scale becomes chaotic:
-
-- no centralized control  
-- unclear roles and permissions  
-- manual processes  
-- lack of transparency  
-
-**A-Faction transforms this into a system.**
+> Chaos scales faster than your mods can handle.
 
 ---
 
-## How it works
-Landing → CRM → API → Discord
+## The Solution
 
-A-Faction connects all parts into a single system instead of separate tools.
+**A-Faction** is a Community OS — a unified platform that brings structure, automation, and visibility to Discord.
 
----
-
-## Platform
-
-- 🌐 Landing — entry point and onboarding  
-- 🧠 CRM — main control panel  
-- ⚙️ API — backend layer  
-- 🤖 Bot — Discord integration  
+One dashboard. One system. Full control.
 
 ---
 
-## Use Cases
+## Platform Architecture
 
-A-Faction is designed for any Discord community that requires structure, control, and automation.
+```
+  ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+  │   Landing   │────▶│     CRM     │────▶│     API     │────▶│    Bot      │
+  │  Onboarding │     │  Dashboard  │     │   Backend   │     │  Discord    │
+  └─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
+```
 
-- gaming communities  
-- RP servers  
-- admin teams  
-- content creator communities  
-- educational servers  
-- startup teams  
-- private organizations  
-
-If your community has roles, processes, or internal workflows — A-Faction fits.
----
-
-## Principles
-
-- simplicity over complexity  
-- automation over manual work  
-- structure over chaos  
-- real-time over delay  
+| Layer | What it does |
+|-------|-------------|
+| 🌐 **Landing** | Entry point and onboarding |
+| 🧠 **CRM** | Main control panel for community management |
+| ⚙️ **API** | Backend logic, auth, data layer |
+| 🤖 **Bot** | Real-time Discord integration |
 
 ---
 
-## Public Note
+## Features
 
-This repository represents the public-facing part of the project.
+**Community Control**
+- Role-based access control (RBAC) across your entire server
+- Real-time member management and oversight
+- Centralized permission hierarchy
 
-Core implementation details and internal logic are private.
+**Automation**
+- Replace manual workflows with automated processes
+- Event-driven bot actions triggered from the CRM
+- Reduce mod workload without losing oversight
+
+**Visibility**
+- Full transparency into community activity
+- Structured data instead of Discord chaos
+- One source of truth for your entire server
+
+**Multi-language**
+- Interface available in Russian, English, and Ukrainian
 
 ---
 
-## Links
+## Who It's For
 
-- https://a-faction.xyz  
-- https://crm.a-faction.xyz  
-- https://api.a-faction.xyz  
+A-Faction fits any Discord community with internal structure:
 
-### Contacts
-- Owner: [jalisco](https://discord.com/users/325196577624817674)
-- Discord Server: [discord.gg/2cMBp8gjYn](https://discord.gg/2cMBp8gjYn)
+- 🎮 Gaming communities & clans
+- 🎭 RP servers
+- 📚 Educational servers
+- 🚀 Startup & dev teams
+- 🎬 Content creator communities
+- 🔒 Private organizations & admin teams
+
+**If your server has roles, processes, or workflows — A-Faction fits.**
+
+---
+
+## Tech Stack
+
+**Frontend**
+- Vue 3 + Nuxt (SSR) + Vite
+- TypeScript + SCSS
+- SEO-optimized
+
+**Backend**
+- Node.js 20 + Express
+- PostgreSQL
+- JWT auth · CSRF protection · Rate limiting
+
+**Infrastructure**
+- Railway (deploy)
+- Cloudflare (DNS + edge)
+- Discord.js v14
+
+---
+
+## Design Principles
+
+```
+  Simplicity    over   Complexity
+  Automation    over   Manual work
+  Structure     over   Chaos
+  Real-time     over   Delay
+```
+
+---
+
+## Transparency Note
+
+This repository is the public-facing overview of the project.
+
+Core implementation details and internal logic are kept private.
+
+---
+
+## Links & Contact
+
+| | |
+|-|-|
+| 🌐 Website | [a-faction.xyz](https://a-faction.xyz) |
+| 🧠 CRM | [crm.a-faction.xyz](https://crm.a-faction.xyz) |
+| ⚙️ API | [api.a-faction.xyz](https://api.a-faction.xyz) |
+| 💬 Discord | [discord.gg/2cMBp8gjYn](https://discord.gg/2cMBp8gjYn) |
+| 👤 Owner | [jalisco](https://discord.com/users/325196577624817674) |
 
 ---
 
 <div align="center">
 
-### A-Faction — manage your community like a system
+<img width="25px" src="https://a-faction.xyz/logo.svg"> **A-Faction** — manage your community like a system
 
 </div>
